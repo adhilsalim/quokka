@@ -34,4 +34,4 @@ MIT License
 
 **Author(s)**
 
-* [Adhil Salim] (cloudfoxapps@gmail.com)
+* [Adhil Salim](https://github.com/adhilsalim)
